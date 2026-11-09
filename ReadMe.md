@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏴‍☠️ I’m currently a 3rd-year CS Student in LPU-Cavite<br>⌨️ I’m currently learning cybersecurity<br>
+🏴‍☠️ I’m currently a 4th-year CS Student in LPU-Cavite<br>⌨️ I’m currently learning data science<br>
 
 
 ## 🌐 Socials:
